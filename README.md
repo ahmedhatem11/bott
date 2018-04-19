@@ -15,7 +15,7 @@ Follow these steps below
   `
   git clone https://github.com/sushantshekhar20/bot-api.ai.git
   `
-3. `cd bot_api.ai`
+3. `cd bot-api.ai`
 4. Place your Key in config/api.js
 5. `npm install`
 6. `node bin/www`
